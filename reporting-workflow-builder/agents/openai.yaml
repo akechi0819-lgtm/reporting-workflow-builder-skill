@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reporting Workflow Builder"
+  short_description: "Build reusable weekly reporting and presentation workflows."
+  default_prompt: "Help me build or run a reusable reporting workflow from my data, prior reports, and presentation constraints."
